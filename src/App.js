@@ -46,6 +46,9 @@ function App() {
           />
         );
       })}
+      <footer className='footer'>
+          <div className='copyright'>created by Red Coder's &#128151;</div>
+        </footer>
     </div>
   );
 }

@@ -32,3 +32,9 @@
    border-radius: 4px;
    border: 1px solid #f1f1f1;
 }
+.footer{
+  margin: 3% 0;
+}
+.copyright{
+  font-size: 10px;
+}
